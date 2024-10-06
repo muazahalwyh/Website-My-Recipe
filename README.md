@@ -1,4 +1,6 @@
-# testing-case-react
+# **Testing Website My Recipe in ReactJS For Assignment 6**
+
+# testing-case-react 
 
 Terdapat 4 file yang perlu kamu lakukan testing : 
 - App.jsx
