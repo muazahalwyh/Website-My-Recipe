@@ -1,4 +1,4 @@
-# **Testing Website My Recipe in ReactJS For Assignment 6 FGA x Hacktiv8**
+# **Testing Website My Recipe in ReactJS For Assignment 6**
 
 # testing-case-react 
 
